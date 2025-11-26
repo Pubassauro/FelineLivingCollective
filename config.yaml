@@ -1,5 +1,5 @@
-baseURL: "https://felinelivingcollective.site/"
-canonifyURLs: true
+baseURL: "/"
+relativeURLs: true
 languageCode: "en-us"
 title: "Feline Living Collective"
 
